@@ -1,0 +1,261 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.kashif1 > div > img{
+    width: 110px;
+    height: 70px;
+   
+}
+.kashif1{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+     background-color: lightgray;
+     width: 100%;
+     height: 60px;
+     padding: 15px;
+}
+.kashif2 > span > img{
+    
+    width: 52px;
+    height: 32px;
+    
+    
+}
+
+.kashif3 > span >img{
+    width: 50px;
+    height: 30px;
+
+    
+}
+.kashif3 > span > span{
+    background-image:url( https://www.olx.com.pk/assets/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg);
+     background-position: center;
+     /* background-repeat: no-repeat; */
+     background-size: cover;
+     font-size: larger;
+     padding: 2px;
+    
+}
+.myself{
+    width: 60%;
+    gap: 10px;
+    border-bottom: 1px solid lightgray
+
+}
+.myclass select{
+    width: 350px;
+    padding: 10px ;
+    overflow: none;
+    margin-left: 560px;
+    border-radius: 5px;
+}
+.boss input{
+       width: 600px;
+    padding: 10px ;
+    overflow: none;
+    margin-right: 100px;
+    border-radius: 5px;
+}
+.allah{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-top: 5px;
+}
+.besak{
+    font-weight: bold;
+}
+.meraallah{
+    border-radius: 8px;
+    background-color: yellow;
+    height: 230px;
+       display: flex;
+    justify-content: space-around;
+    margin-top: 23px;
+
+}
+.image12 img{
+    width: 100%;
+    border-radius: 8px;
+}
+.besak2 img{
+    width: 190px;
+    padding-top: 115px;
+}
+/* .meraallah span{
+    w
+} */
+ .himan img{
+    width: 180px;
+    padding-top: 115px ;
+    /* padding-left: 100px; */
+    position: absolute;
+    /* left: 10px; */
+    
+ }
+ .himan{
+    position: relative;
+ }
+ .himan2{
+    display: flex;
+    gap: 6px;
+    
+ }
+ .himan2 > span > img{
+    width: 80px;
+    padding-top: 163px;
+ }
+ .meradost {
+    /* font-size: xx-large; */
+    padding-top: 115px; 
+ }
+  .meradost p{
+    font-size: medium;
+    font-weight: bold;
+ }
+ .sukur{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px;
+    margin-top: 40px;
+    cursor: pointer;
+ }
+ .sukur > div > h1{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+ }
+ .sukur img{
+    width: 100px;
+    height: 85px;
+ }
+ .bismiallah h1{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 20px;
+ }
+ .sukur2{
+display: flex;
+    
+ }
+ .mycard{
+    
+ }
+.allahaikhai{
+     display: flex;
+     gap: 20px;
+     align-items: stretch;
+     object-fit: cover;
+     margin-top: 30px;
+     padding: 10px 20px;
+     
+}
+
+.afoos{
+    height: 390px;
+   
+}
+.mycard110{
+    display: flex;
+    justify-content: space-between;
+}
+.lighttext{
+    color: gray;
+}
+.allahaikhai1{
+     display: flex;
+     gap: 20px;
+     align-items: stretch;
+     object-fit: cover;
+     margin-top: 30px;
+      padding: 10px 20px;
+}
+.container4 h1{
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.allahhoo img{
+    width: 190px;
+    height: 150px;
+}
+.allahhoo  > span >img{
+    width: 135px;
+    height: 90px;
+    margin-top: 70px;
+    
+}
+.yaallah{
+    background-color:  #F2F4F5;
+}
+.allahhoo{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    border-bottom: 1px solid gray;
+    
+}
+.dista{
+    display: flex;
+    justify-content: space-around;
+
+  
+}
+.dista > div > ul >li{
+    list-style: none;
+}
+.dista2{
+    padding-top: 100px;
+
+  
+}
+.image15{
+    display: flex;
+    
+    
+}
+.list{
+    font-weight: bold;
+    padding-top: 65px;
+}
+.list1 > ul >li{
+    padding-bottom: 10px;
+}
+.allahhooo{
+    background-color:  #002F34;
+    border: 1px solid #002F34;
+    display: flex;
+    justify-content: end;
+    padding-right: 110px;
+    height: 44px;
+    padding-top: 12px;
+}
+.allahhooo h1{
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+
+}
+.sukur1000{
+    
+    border: 1px solid black;
+    width: 145px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-top: 10px;
+    bottom: 55px;
+    border-radius: 45px;
+    font-weight: bold;
+    position: fixed;
+    left: 1080px;
+    background-color: white;
+    padding-left: 15px;
+    cursor: pointer;
+}
